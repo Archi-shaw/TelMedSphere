@@ -1,5 +1,15 @@
-# <p align="center">💖TelMedSphere</p>
+# <p align="center"><img src="./frontend/public/icon.png" alt="HTML" />  TelMedSphere 
+<img src="./frontend/public/icon.png" alt="HTML" /> </p>
 <!-------------------------------------------------------------------------------------------------------------------------------------->
+<div align="center"> 
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=470&lines=Welcome+to+TELMEDSPHERE💖; Bridging+care+and+technology+seamlessly!; Affordable+healthcare,+just+a+click+away;Your+well-being+reimagined!" alt="Typing SVG"/> 
+    </h1>
+</div>
+<!-------------------------------------------------------------------------------------------------------------------------------------->
+
+![image](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/1.png)
+
  <div align="center">
  <p>
 
@@ -23,18 +33,22 @@
 
 <div id="top"></div>
 
-<h2>🧾 Table of Contents</h2>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- [📌 Introduction](#introduction).<br>
- [💡 Features](#features).<br>
- [🚀 Technology Used](#technology-used).<br>
- [⭐ Overview](#overview).<br>
- [💥 Getting Started](#getting-started).<br>
- [📑 Contributing Guidelines](#contributing-guidelines).<br>
- [📑 Code Of Conduct](#code-of-conduct).<br>
- [⚡ Project Admin](#project-admin).<br>
- [🧡 Contributing with fun](#contributing-with-fun).<br>
+<h2>Table of Contents 🧾</h2>
+
+- [Introduction📌](#introduction).<br>
+- [Features💡](#features).<br>
+- [Technology Used🚀](#technology-used).<br>
+- [Overview⭐](#overview).<br>
+- [Getting Started💥](#getting-started).<br>
+- [Contributing Guidelines 📑](#contributing-guidelines).<br>
+- [Code Of Conduct 📑](#code-of-conduct).<br>
+- [Project Admin⚡](#project-admin).<br>
+- [Contributing with fun 🧡](#contributing-with-fun).<br>
 <br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -81,17 +95,24 @@ TelMedSphere is designed to make healthcare simple and accessible for both docto
 
 <h2>⭐Overview</h2>
 
-<h1 align="center"> <a href="https://pratik0112-telmedsphere.vercel.app/"> Live Project Demo ↗️</a></h1>
+<h2>Live Demo</h2>
+
+Check out the live project  ↗(https://pratik0112-telmedsphere.vercel.app/).
+
+
 
 ![](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/1.png)
-![](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/2.png)
+<!-- ![](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/2.png)
 ![](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/3.png)
 ![](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/4.png)
 ![](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/5.png)
-![](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/6.png)
+![](https://github.com/PratikMane0112/TelMedSphere/blob/master/Overview/6.png) -->
 
 
-<h3 align="right"><a href="#top">⬆️</a></h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<h3 align="right"><a href="#top">⬆</a></h3>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>💥Getting Started</h2>
@@ -99,13 +120,13 @@ TelMedSphere is designed to make healthcare simple and accessible for both docto
 - Fork this Repository.
 - Clone the forked repository in your local system.
   
- ```bash
+ bash
  git clone https://github.com/<your-github-username>/TelMedSphere.git
- ```
+ 
 
 - Navigate to the project directory for frontend Setup.
   
- ```bash
+ bash
  # Navigate to frontend directory
  cd frontend    
  # Install all npm packages for react frontend
@@ -114,11 +135,11 @@ TelMedSphere is designed to make healthcare simple and accessible for both docto
  mv .env.example .env   
  # Start the frontend 
  npm run dev    
- ```
+ 
 
 - Navigate to the project directory for backend Setup.
   
- ```bash
+ bash
  # Navigate to backeend directory
  cd backend
  # Set .env file
@@ -133,8 +154,8 @@ TelMedSphere is designed to make healthcare simple and accessible for both docto
  flask run
  # deactivate the virtual environment, when you are done
  deactivate
- ```
-<h3 align="right"><a href="#top">⬆️</a></h3>
+ 
+<h3 align="right"><a href="#top">⬆</a></h3>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>📑Contributing Guidelines</h2>
@@ -163,7 +184,9 @@ TelMedSphere and everyone participating in it is governed by the [Code of Conduc
 </table>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h2>🚩 This project has been part of the following Open Source Programs 🥳</h2>
+<h2> Open-Source-Programmes⭐ </h2>
+
+ ### This project is now OFFICIALLY accepted for
 
 <table>
 <tr>
@@ -187,6 +210,6 @@ TelMedSphere and everyone participating in it is governed by the [Code of Conduc
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-<h2><a href="https://discord.gg/qsdDRKak28">Join Discord Server↗️</a></h2>
+<h2><a href="https://discord.gg/qsdDRKak28">Join Discord Server↗</a></h2>
 <h3>🎊 Contributions are always welcome 👨‍💻 Give it a 🌟 if you 🧡 TelMedSphere. Happy Coding !!!!! 🎊</h3>
-<h3 align="right"><a href="#top">⬆️</a></h3>
+<h3 align="right"><a href="#top">⬆</a></h3>
